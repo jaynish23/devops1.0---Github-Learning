@@ -1,0 +1,3 @@
+pink mode fix - one more bug is fixed
+
+another fix messegeg for pink mode
