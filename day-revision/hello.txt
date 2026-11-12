@@ -1,2 +1,7 @@
 hiii 
 this is the new file 
+
+
+hiii i  am on the dev1 branch 
+now the again new commit is apply right 
+
